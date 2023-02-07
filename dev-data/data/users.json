@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Great Admin",
+    "email": "eric_9@mail.ru",
+    "role": "admin",
+    "active": true,
+    "photo": "default.jpg",
+    "password": "$2a$12$kdRTADRwozq/B3iwfaGH0OE3LTugkFeSryTTzfBafTRFeX0qzdgXG"
+  },
+  {
+    "_id": "5c8a1dfa2f8fb814b56fa181",
+    "name": "Simple User",
+    "email": "theericfrost@mail.ru",
+    "role": "user",
+    "active": true,
+    "photo": "default.jpg",
+    "password": "$2a$12$kdRTADRwozq/B3iwfaGH0OE3LTugkFeSryTTzfBafTRFeX0qzdgXG"
+  }
+]

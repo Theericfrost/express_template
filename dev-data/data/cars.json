@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc058",
+    "name": "Tesla",
+    "price": 100000,
+    "priceDiscount": 0,
+    "description": "Tesla description",
+    "imageCover": "tesla.jpg",
+    "images": ["tesla.jpg"]
+  },
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Tesla 2",
+    "price": 999990,
+    "priceDiscount": 0,
+    "description": "Tesla 2 description",
+    "imageCover": "tesla.jpg",
+    "images": ["tesla.jpg"]
+  }
+]
